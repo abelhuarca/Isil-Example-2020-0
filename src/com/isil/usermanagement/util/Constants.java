@@ -1,7 +1,7 @@
 package com.isil.usermanagement.util;
 
 public class Constants {
-	
+	//Constantes
    public static final String JDBC_CLASS="com.mysql.jdbc.Driver";
    public static final String JDBC_URL="jdbc:mysql://localhost:3306/demo?useSSL=false&&serverTimezone=UTC";
    public static final String JDBC_USERNAME="root";
